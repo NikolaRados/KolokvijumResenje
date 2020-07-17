@@ -1,0 +1,12 @@
+D:\Users\Igor\source\repos\VezbaKlk\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\Users\Igor\source\repos\VezbaKlk\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Users\Igor\source\repos\VezbaKlk\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+D:\Users\Igor\source\repos\VezbaKlk\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\Users\Igor\source\repos\VezbaKlk\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\Users\Igor\source\repos\VezbaKlk\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\Users\Igor\source\repos\VezbaKlk\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\Users\Igor\source\repos\VezbaKlk\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+D:\Users\Igor\source\repos\VezbaKlk\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Users\Igor\source\repos\VezbaKlk\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\Users\Igor\source\repos\VezbaKlk\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\Users\Igor\source\repos\VezbaKlk\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb

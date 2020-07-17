@@ -1,0 +1,14 @@
+D:\Users\Igor\source\repos\VezbaKlk\Implementation\bin\Debug\netcoreapp3.1\Implementation.deps.json
+D:\Users\Igor\source\repos\VezbaKlk\Implementation\bin\Debug\netcoreapp3.1\Implementation.dll
+D:\Users\Igor\source\repos\VezbaKlk\Implementation\bin\Debug\netcoreapp3.1\Implementation.pdb
+D:\Users\Igor\source\repos\VezbaKlk\Implementation\bin\Debug\netcoreapp3.1\Application.dll
+D:\Users\Igor\source\repos\VezbaKlk\Implementation\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\Users\Igor\source\repos\VezbaKlk\Implementation\bin\Debug\netcoreapp3.1\Application.pdb
+D:\Users\Igor\source\repos\VezbaKlk\Implementation\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\Users\Igor\source\repos\VezbaKlk\Implementation\obj\Debug\netcoreapp3.1\Implementation.csprojAssemblyReference.cache
+D:\Users\Igor\source\repos\VezbaKlk\Implementation\obj\Debug\netcoreapp3.1\Implementation.AssemblyInfoInputs.cache
+D:\Users\Igor\source\repos\VezbaKlk\Implementation\obj\Debug\netcoreapp3.1\Implementation.AssemblyInfo.cs
+D:\Users\Igor\source\repos\VezbaKlk\Implementation\obj\Debug\netcoreapp3.1\Implementation.csproj.CopyComplete
+D:\Users\Igor\source\repos\VezbaKlk\Implementation\obj\Debug\netcoreapp3.1\Implementation.dll
+D:\Users\Igor\source\repos\VezbaKlk\Implementation\obj\Debug\netcoreapp3.1\Implementation.pdb
+D:\Users\Igor\source\repos\VezbaKlk\Implementation\obj\Debug\netcoreapp3.1\Implementation.csproj.CoreCompileInputs.cache
